@@ -1,6 +1,6 @@
 <h1>Custom Pin Input</h1>
 
-<h3>This is a small project where I have built a custom Pin input, as you may have seen in OTP logins in various websites.</h3>
+<h3>This is a small project where I have built a custom Pin input, as you may have seen in OTP logins in various websites. You can input the pin and it will be displayed in the DOM and you can also erase the pin using backSpace button. Forward Ref has been used to forward the reference from useRef() hook which is provided by react in-built library.</h3>
 
 <p>To run this project locally on your browser, follow these steps:</p>
 
