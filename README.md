@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+<h1>Custom Pin Input</h1>
+
+<h3>This is a small project where I have built a custom Pin input, as you may have seen in OTP logins in various websites.</h3>
+
+<p>To run this project locally on your browser, follow these steps:</p>
+
+1. VS Code required. Install/Launch Vs code.
+2. Clone this repo in you vs code.
+3. Type "npm install" in your terminal.
+4. running json server is mandatory for the todo application to work. type "npm run server" to run json-server.
+5. type "npm start" in terminal[ this will open the local react server app server in your browser in which you can test the todo application ].
+
+<hr />
+<h2>If you are new to create-react-app, then you can read this</h2>
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
